@@ -1,0 +1,12 @@
+{
+  "renderer_source": "video_demo/app/scenarios/clothing_morph.py",
+  "source_sha256": "19a1659987a58e6fcdc8b33a657adf4b5bb63047ef0e2d3019198ec0af06a863",
+  "bundled_sha256": "43ac6235bf3f86f1b7156443b0ef41756a40f6ab5a1363aa26f3a0e723a5af4c",
+  "modifications": [
+    "Only replaced the stdout delivery notice; animation, layout, image handling, encoding and audio logic are unchanged."
+  ],
+  "fonts": {
+    "NotoSansSC.ttf": "450625c8d46ab3df97b7904ded955ec2746d17ec76740cb1e91d1ba63a0f89af",
+    "SourceHanSerifCN-Regular.otf": "3754ea669c530e2473354f8f6d9f79680a44d7e26ec7d00eeabee4a7e0753c5d"
+  }
+}

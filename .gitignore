@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+output/
+outputs/
+work/
+tmp/
+inputs/
+context.json
+input-fingerprint.json
+*.mp4
+*.mov
+*.zip

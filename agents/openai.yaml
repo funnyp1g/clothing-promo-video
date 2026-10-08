@@ -1,0 +1,4 @@
+interface:
+  display_name: "服装图片宣传视频"
+  short_description: "根据服装图片生成连续形变宣传视频，支持款式切换、配乐与品牌片尾"
+  default_prompt: "使用 $clothing-promo-video，把我提供的服装图片制作成朋友圈宣传视频，保留服装原貌与品牌图片。"
